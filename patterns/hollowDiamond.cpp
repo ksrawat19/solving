@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int num = 43;
+    int num = 10;
     // cin>>num;
     int n = num/2;
 
